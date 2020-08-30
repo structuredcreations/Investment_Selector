@@ -34,7 +34,8 @@ Reporting / dashboard layer
 
 
 Part 4:
-Machine learning
+Analysis / Machine learning
+- [ ] Find the correlation between stock prices
 - [ ] PCA analysis
 - [ ] Probability of institution investors
 - [ ] Multi dimensional clustering
