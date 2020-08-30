@@ -2,11 +2,11 @@
 Part 1: 
 Staging, import data, clean and load into database
 
-- [ ] Ticker list
-- [ ] Historical stock prices
-- [ ] balance sheet
-- [ ] Profit and Loss
-- [ ] Income statement
+- [X] Ticker list
+- [X] Historical stock prices
+- [X] balance sheet
+- [X] Profit and Loss
+- [X] Income statement
 - [ ] Load data into sqlite database and create column for database load date
 
 
